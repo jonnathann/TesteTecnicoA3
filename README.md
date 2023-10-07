@@ -1,6 +1,6 @@
 # Sobre o teste
 
-<p>O objetivo desse teste é gerar insights sobre uma base de dados de uma empresa chama Telco que enfrenta um problema de evasão de clientes de seus produtos/serviços.</p>
+<p>O objetivo desse teste é gerar insights sobre uma base de dados de uma empresa chama Telco que enfrenta um problema de rotatividade de clientes (CHURN) de seus produtos/serviços.</p>
 
 # Organização do código
 
